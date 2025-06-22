@@ -59,9 +59,10 @@ toml==0.10.2
 tornado==6.1
 traitlets==5.0.5
 typing-extensions==3.10.0.0
-urllib3==1.26.4
+urllib3==2.5.0
 uvicorn==0.14.0
 wcwidth==0.2.5
 webdriver-manager==3.2.2
 Werkzeug==1.0.1
 wrapt==1.12.1
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability

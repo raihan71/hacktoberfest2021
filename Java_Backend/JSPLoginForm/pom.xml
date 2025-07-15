@@ -28,11 +28,11 @@
 
     <activation.version>1.1</activation.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
-    <commons.lang3.version>3.1</commons.lang3.version>
+    <commons.lang3.version>3.18.0</commons.lang3.version>
     <hibernate.version>4.1.11.Final</hibernate.version>
     <hibernate-validator.version>4.0.2.GA</hibernate-validator.version>
     <hsqldb.version>2.2.9</hsqldb.version>
-    <jackson.version>2.1.1</jackson.version>
+    <jackson.version>2.15.0</jackson.version>
     <java.version>1.6</java.version>
     <javax-validation.version>1.0.0.GA</javax-validation.version>
     <javamail.version>1.4.5</javamail.version>
@@ -49,7 +49,7 @@
     <slf4j.version>1.6.6</slf4j.version>
     <spring.version>3.2.2.RELEASE</spring.version>
     <spring-data-jpa.version>1.2.0.RELEASE</spring-data-jpa.version>
-    <spring-security.version>3.1.3.RELEASE</spring-security.version>
+    <spring-security.version>4.0.0.RELEASE</spring-security.version>
     <tomcat.version>7.0.30</tomcat.version>
     <urlrewrite.version>3.2.0</urlrewrite.version>
   </properties>

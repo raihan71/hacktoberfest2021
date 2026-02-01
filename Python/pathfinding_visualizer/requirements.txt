@@ -65,3 +65,4 @@ wcwidth==0.2.5
 webdriver-manager==3.2.2
 Werkzeug==1.0.1
 wrapt==1.12.1
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
